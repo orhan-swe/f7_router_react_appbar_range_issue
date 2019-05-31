@@ -1,0 +1,20 @@
+.list {
+  .item-title {
+    white-space: normal !important;
+    width: 100%;
+  }
+}
+
+.tab-link {
+  white-space: normal !important;
+  font-size: 13px !important;
+  line-height: 16px !important;
+  text-decoration: none !important;
+  display: flex !important;
+  align-items: center;
+}
+
+.preloader {
+  margin: 15px auto 0;
+  display: block !important;
+}

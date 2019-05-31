@@ -1,0 +1,17 @@
+{
+    "search.exclude": {
+        "/build": true,
+        "/cordova": true,
+        "/src/sink": true
+    },
+    "files.exclude": {
+        "**/node_modules": true,
+        "/cordova": true
+    },
+    "java.autobuild.enabled": false,
+    "files.watcherExclude": {
+        "**/build/**": true,
+        "**/cordova/**": true,
+        "**/public/**": true
+    }
+}
